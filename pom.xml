@@ -25,6 +25,5 @@
         <module>core</module>
         <module>filter-authorization-keycloack</module>
         <module>utils</module>
-        <module>common-library-bundle</module> <!-- Modul baru untuk JAR gabungan -->
     </modules>
 </project>
