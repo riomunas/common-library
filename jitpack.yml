@@ -1,0 +1,6 @@
+jdk:
+  - openjdk17
+
+# JitPack akan menargetkan modul `common-library-bundle`
+build:
+  target: common-library-bundle
